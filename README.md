@@ -3,7 +3,7 @@
 - Hoje trabalho com Back-End
 - Estudando Ciência da Computação
 
-<div align="center">
+<div align="start">
   <a href="https:www.rafaelluna.vercel.app">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-lunna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-lunna&layout=compact&langs_count=7&theme=tokyonight"/>
